@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.terminal-window {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border: none;
+  background-color: #132a13; /* Dark green */
+  backdrop-filter: blur(10px);
+  overflow: auto; /* Allow scrolling when the content exceeds the viewport height */
+
+}
+
+.terminal-body {
+  padding: 10px;
+  color: #ecf39e; /* Mindaro */
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.terminal-input {
+  width: 100%;
+  border: none;
+  outline: none;
+  color: #ecf39e; /* Mindaro */
+  background-color: transparent;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.terminal-prompt {
+  color: #ecf39e; /* Mindaro */
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.terminal-line {
+  display: flex;
+  align-items: center;
+}
+
+.terminal-output {
+  margin-bottom: 10px;
+}
+
+.response {
+  color: #90a955; /* Moss green */
+  margin-left: 40px;
+  max-width: 27%;
+  word-wrap: break-word;
+  font-size: 15px;
+}
