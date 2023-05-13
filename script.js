@@ -5,7 +5,7 @@ const userPrompt = 'foreignuser@mizu.com:~$';
 
 
 const asciiArt = `
-Chris Toney Jr | Software Development Student.
+Chris | Software Development Student.
 
               *         *      *         *
           ***          **********          ***
