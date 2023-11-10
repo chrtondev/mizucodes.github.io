@@ -6,7 +6,7 @@ View here: https://mizucodes.github.io/
 
 ## Description
 
-![Image of mizucodes webpage](https://imgur.com/5xnFpuL)
+![Image of mizucodes webpage](https://i.imgur.com/5xnFpuL.png)
 
 This website is designed to mimic the look and feel of a traditional terminal or command-line interface. It provides a fun and interactive way to explore various features and content while honing your web development skills.
 
