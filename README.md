@@ -2,7 +2,11 @@
 
 Welcome to my Terminal-Style Website! This project was created to gain experience in web development and JavaScript.
 
+View here: https://mizucodes.github.io/
+
 ## Description
+
+![Image of mizucodes webpage](https://imgur.com/a/floUekP)
 
 This website is designed to mimic the look and feel of a traditional terminal or command-line interface. It provides a fun and interactive way to explore various features and content while honing your web development skills.
 
