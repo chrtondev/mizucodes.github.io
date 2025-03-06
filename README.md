@@ -2,7 +2,6 @@
 
 Welcome to my Terminal-Style Website! This project was created to gain experience in web development and JavaScript.
 
-View here: https://mizucodes.github.io/
 
 ## Description
 
